@@ -1,5 +1,5 @@
 # 💫 About Me:
-Seeking to learn new things for better myself.
+Seeking to learn new things to better myself.
 
 
 ## 🌐 Socials:
