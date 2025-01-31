@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <h3 align="Left">At the moment, working as Data Analyst. I have been developing websites as a hobby Seeking to learn new things to better myself and I am transitioning to a professional career.</h3>
 
-- 🌱 I’m currently focusing on **Data Science**
+- 🌱 I’m currently focusing on **Data Science**.
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/vinayreddyverama/Projects)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/vinayreddyverama/Projects).
 
-- 📄 Know about my experiences [Resume](https://github.com/vinayreddyverama/vinayreddyverama/blob/main/resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/vinayreddyverama/vinayreddyverama/blob/main/resume.pdf).
 
-- 📫 How to reach me [Gmail](vinayreddyveramareddy@gmail.com)
+- 📫 How to reach me [Gmail](vinayreddyveramareddy@gmail.com).
 
 
 
