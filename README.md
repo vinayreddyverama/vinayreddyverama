@@ -7,9 +7,9 @@
 
 - 🔭 All of my projects are available at [Github](https://github.com/vinayreddyverama/Projects)
 
-- 📄 Know about my experiences [resume](https://github.com/vinayreddyverama/vinayreddyverama/blob/main/resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/vinayreddyverama/vinayreddyverama/blob/main/resume.pdf)
 
-- 📫 How to reach me [Data Analyst](vinayreddyveramareddy@gmail.com)
+- 📫 How to reach me [Gmail](vinayreddyveramareddy@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
