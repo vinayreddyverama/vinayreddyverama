@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently focusing on **Data Science**
 
-- 👨‍💻 I’m currently working as [Data Analyst](Data Analyst)
+- 👨‍💻 I’m currently working as **Data Analyst**
 
 - 🔭 All of my projects are available at [Github](https://github.com/vinayreddyverama/Projects)
 
