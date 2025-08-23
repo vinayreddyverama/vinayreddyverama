@@ -15,7 +15,6 @@
 
 ## 🌐 Socials:
 [LinkedIn](https://www.linkedin.com/in/vinayveramareddy/) 
-<img width="193" height="127" alt="image" src="https://github.com/user-attachments/assets/2a3babf4-60c5-4006-9ca7-80ac7ff82d01" />
 
 [Portfolio](https://vinayreddy-portfolio.lovable.app/) 
 
