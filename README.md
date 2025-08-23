@@ -15,7 +15,7 @@
 
 ## 🌐 Socials:
 [LinkedIn](https://www.linkedin.com/in/vinayveramareddy/) 
-
+[Portfolio](https://vinayreddy-portfolio.lovable.app/) 
 [Streamlit](https://share.streamlit.io/user/vinayreddyverama)
 
 # 💻 Tech Stack:
