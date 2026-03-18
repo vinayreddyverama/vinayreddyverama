@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="Left">At the moment, working as Data Analyst. Seeking to learn new things to better myself, transitioning to a professional career.</h3>
+<h3 align="Left">At the moment, working as Software Developer. Seeking to learn new things to better myself, transitioning to a professional career.</h3>
 
 - 🌱 I’m currently focusing on **Data Science**.
 
