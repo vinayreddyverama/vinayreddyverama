@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/vinayreddyverama/Projects).
 
-- 📄 Know about my experiences [Resume](https://github.com/vinayreddyverama/Projects/blob/main/Vinayreddy_Veramareddy_Software_%20Developer_Resume.pdf).
+- 📄 Know about my experiences [Resume](https://github.com/vinayreddyverama/Projects/blob/main/vinay_reddy_veramareddy_resume.pdf).
 
 - 📫 How to reach me [Gmail](veramareddyvinayreddy@gmail.com).
 
