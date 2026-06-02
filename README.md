@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [Resume](https://github.com/vinayreddyverama/Projects/blob/main/vinay_reddy_veramareddy_resume.pdf).
 
-- 📫 How to reach me *veramareddyvinayreddy@gmail.com*.
+- 📫 How to reach me *[veramareddyvinayreddy@gmail.com](veramareddyvinayreddy@gmail.com)*.
 
 
 
